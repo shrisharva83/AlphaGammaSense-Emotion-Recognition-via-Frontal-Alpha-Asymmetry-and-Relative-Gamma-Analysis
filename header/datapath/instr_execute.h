@@ -1,7 +1,7 @@
 #ifndef EXEC_H
 #define EXEC_H
 
-#include "cpu/core/instr_decode.h"
+#include "header/datapath/instr_decode.h"
 
 typedef struct {
   instr_name instruction_name;
